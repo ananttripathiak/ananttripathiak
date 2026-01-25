@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Anant Tripathi - AI/ML Engineer & Data Scientist">
+    <title>Anant Tripathi | AI Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="background-animation">
+        <div class="neural-network"></div>
+        <canvas id="particleCanvas"></canvas>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-brackets">&lt;</span>
+                <span class="logo-name">ANANT.AI</span>
+                <span class="logo-brackets">/&gt;</span>
+            </div>
+            <button class="nav-toggle" id="navToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#home" class="nav-link"><span>01.</span> Home</a></li>
+                <li><a href="#about" class="nav-link"><span>02.</span> About</a></li>
+                <li><a href="#experience" class="nav-link"><span>03.</span> Experience</a></li>
+                <li><a href="#projects" class="nav-link"><span>04.</span> Projects</a></li>
+                <li><a href="#skills" class="nav-link"><span>05.</span> Tech Stack</a></li>
+                <li><a href="#education" class="nav-link"><span>06.</span> Education</a></li>
+                <li><a href="#contact" class="nav-link"><span>07.</span> Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <div class="glitch-wrapper">
+                    <div class="glitch-text" data-text="AI ENGINEER">AI ENGINEER</div>
+                </div>
+                <h1 class="hero-title">
+                    <span class="typing-text">Hello, I'm</span>
+                    <span class="hero-name">Anant Tripathi</span>
+                </h1>
+                <p class="hero-punchline">Building intelligent systems that scale.</p>
+                <p class="hero-tagline">
+                    <span class="code-bracket">{</span>
+                    Machine Learning Engineer • Senior Data Scientist • Generative AI & MLOps • Marketing Analytics
+                    <span class="code-bracket">}</span>
+                </p>
+                <p class="hero-description">
+                    I design and deploy scalable AI systems, LLM-powered solutions, and data-driven strategies 
+                    across healthcare, pharma, and marketing. 72% faster execution, 63% lower memory, 70+ professionals trained.
+                </p>
+                <div class="hero-cta">
+                    <a href="#contact" class="btn btn-primary">
+                        <span>Get In Touch</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                    <a href="#projects" class="btn btn-secondary">
+                        <i class="fas fa-briefcase"></i>
+                        <span>View my work</span>
+                    </a>
+                    <a href="Anant_Tripathi_Resume.pdf" download class="btn btn-secondary">
+                        <i class="fas fa-download"></i>
+                        <span>Resume</span>
+                    </a>
+                </div>
+                <p class="hero-cta-hint">Available for collaborations and new opportunities</p>
+                <div class="hero-social">
+                    <a href="https://www.linkedin.com/in/ananttripathiak/" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://github.com/ananttripathiak" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="mailto:ananttripathiak@gmail.com" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="profile-container">
+                    <div class="profile-frame">
+                        <img src="anantprofilepicture.png" alt="Anant Tripathi" class="profile-img">
+                        <div class="scan-line"></div>
+                    </div>
+                    <div class="floating-labels">
+                        <div class="label label-1">AI/ML</div>
+                        <div class="label label-2">GenAI</div>
+                        <div class="label label-3">LLMs</div>
+                        <div class="label label-4">MLOps</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-down">
+            <span>Scroll</span>
+            <div class="scroll-line"></div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">02.</span>
+                <span class="title-text">About Me</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p class="highlight-text">
+                        Machine Learning Engineer & Senior Data Scientist with a proven track record of delivering 
+                        scalable AI systems, GenAI solutions, and enterprise-grade predictive models that directly 
+                        improve business growth, marketing ROI, and product performance.
+                    </p>
+                    <p>
+                        I specialize in <span class="text-accent">end-to-end ML development</span>—from problem framing 
+                        and data engineering to deployment and continuous monitoring. My work blends advanced analytics, 
+                        software engineering, and business strategy to ensure every model is not only accurate, but 
+                        explainable, optimized, and actively used in production. I thrive in high-speed product 
+                        environments where AI is more than an experiment—it's a <span class="text-accent">growth engine</span>.
+                    </p>
+                    <p>
+                        Over the years, I've built solutions across diverse domains: <span class="text-accent">Generative AI & LLMs</span> 
+                        with retrieval-augmented generation and AI assistants, <span class="text-accent">Marketing & Product Analytics</span> 
+                        including marketing mix modeling and experimentation, <span class="text-accent">MLOps & Deployment</span> 
+                        with CI/CD pipelines and API-first architectures, and <span class="text-accent">Predictive Intelligence</span> 
+                        for demand forecasting and operational optimization.
+                    </p>
+                    <p>
+                        My technical achievements include successfully training and integrating <span class="text-accent">Large Language Models</span> 
+                        using Azure OpenAI, engineering custom optimization algorithms for marketing analytics, and 
+                        delivering solutions for major healthcare and pharmaceutical organizations. I've consistently 
+                        driven significant performance improvements, achieving <span class="text-accent">72% reduction in execution time</span> 
+                        and <span class="text-accent">63% decrease in memory consumption</span> through algorithmic innovation.
+                    </p>
+                    <p>
+                        As a technical leader, I excel at stakeholder collaboration and translating complex models into 
+                        clear business outcomes. I've trained <span class="text-accent">70+ professionals</span> in machine learning, 
+                        Python, SQL, and optimization strategies, building robust data science capabilities across teams. 
+                        My approach combines rigorous technical execution with strategic product thinking—ensuring that 
+                        every AI solution delivers measurable value and scales effectively in production environments.
+                    </p>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-icon">
+                                <i class="fas fa-project-diagram"></i>
+                            </div>
+                            <div class="stat-content">
+                                <h3>25+</h3>
+                                <p>Projects Delivered</p>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon">
+                                <i class="fas fa-users"></i>
+                            </div>
+                            <div class="stat-content">
+                                <h3>70+</h3>
+                                <p>Team Members Trained</p>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon">
+                                <i class="fas fa-chart-line"></i>
+                            </div>
+                            <div class="stat-content">
+                                <h3>72%</h3>
+                                <p>Performance Boost</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="experience section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">03.</span>
+                <span class="title-text">Experience</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="experience-container">
+                <div class="experience-card">
+                    <div class="card-glow"></div>
+                    <div class="card-header">
+                        <div>
+                            <h3>Project Leader — Data Scientist</h3>
+                            <h4 class="company">Axtria – Ingenious Insights</h4>
+                            <p class="location"><i class="fas fa-map-marker-alt"></i> Bengaluru, India</p>
+                        </div>
+                        <span class="date-badge">Aug 2021 - Present</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-brain"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Generative AI Integration</strong>
+                                <p>Trained and integrated Generative AI models using Azure OpenAI, delivering text-based 
+                                and visual insights from product modules</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-rocket"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Team Leadership & Client Success</strong>
+                                <p>Led team to secure major US healthcare brands through product enhancements and drove 
+                                significant product adoption</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-cogs"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Advanced Algorithm Development</strong>
+                                <p>Engineered custom algorithms for marketing mix optimization using COBYLA and SLSQP. 
+                                Delivered 25+ projects establishing primary optimization techniques</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-chart-bar"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Dynamic Analytics Assets</strong>
+                                <p>Built ML models using regression, hierarchical modeling, and segmentation for HCP 
+                                targeting in pharmaceutical launches</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-tachometer-alt"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Performance Optimization</strong>
+                                <p>Delivered 10 simultaneous projects, reducing execution time by 25% and memory 
+                                consumption by 63%</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-code"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Codebase Migration</strong>
+                                <p>Independently migrated 6000+ line codebase from R to Python, improving performance 
+                                and scalability</p>
+                            </div>
+                        </div>
+                        <div class="achievement">
+                            <div class="achievement-icon">
+                                <i class="fas fa-graduation-cap"></i>
+                            </div>
+                            <div class="achievement-text">
+                                <strong>Training & Development</strong>
+                                <p>Provided comprehensive training to 70+ employees in Python, SQL, marketing mix 
+                                modeling, and optimization</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">04.</span>
+                <span class="title-text">Featured Work</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <i class="fas fa-rocket project-icon"></i>
+                        <h3>Customer Purchase Prediction</h3>
+                        <span class="project-year">2025</span>
+                    </div>
+                    <p class="project-org">The University of Texas at Austin</p>
+                    <p class="project-desc">
+                        End-to-end MLOps pipeline for predicting customer purchase of a wellness tourism package. 
+                        Includes data registration on Hugging Face, XGBoost model training with MLflow tracking, 
+                        CI/CD using GitHub Actions, Dockerized Streamlit app, and deployment to Hugging Face Spaces.
+                    </p>
+                    <div class="project-tags">
+                        <span class="project-tag">MLOps</span>
+                        <span class="project-tag">XGBoost</span>
+                        <span class="project-tag">MLflow</span>
+                        <span class="project-tag">Docker</span>
+                        <span class="project-tag">GitHub Actions</span>
+                        <span class="project-tag">Hugging Face</span>
+                    </div>
+                    <a href="https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction" target="_blank" rel="noopener noreferrer" class="project-link">
+                        View Project <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <i class="fas fa-globe project-icon"></i>
+                        <h3>Personal Portfolio Webpage</h3>
+                        <span class="project-year">2025</span>
+                    </div>
+                    <p class="project-org">Cyberpunk-inspired AI portfolio</p>
+                    <p class="project-desc">
+                        Animated particle networks, neon glow effects, and futuristic design. Features dark theme, 
+                        smooth animations, and responsive layout. No frameworks — pure web technologies.
+                    </p>
+                    <div class="project-tags">
+                        <span class="project-tag">HTML5</span>
+                        <span class="project-tag">CSS3</span>
+                        <span class="project-tag">JavaScript</span>
+                        <span class="project-tag">Animations</span>
+                        <span class="project-tag">Responsive Design</span>
+                    </div>
+                    <a href="https://ananttripathiak.github.io/Anant-Tripathi/" target="_blank" rel="noopener noreferrer" class="project-link">
+                        View Project <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <i class="fas fa-graduation-cap project-icon"></i>
+                        <h3>DSCode — Data Science Learning Platform</h3>
+                        <span class="project-year">2025</span>
+                    </div>
+                    <p class="project-org">Comprehensive learning platform</p>
+                    <p class="project-desc">
+                        Mastering Data Science, AI & ML through 250+ curated problems. Features progress tracking, 
+                        dark mode, difficulty filters, topic-based organization, and structured learning roadmaps.
+                    </p>
+                    <div class="project-tags">
+                        <span class="project-tag">Data Science</span>
+                        <span class="project-tag">Machine Learning</span>
+                        <span class="project-tag">JavaScript</span>
+                        <span class="project-tag">Learning Platform</span>
+                        <span class="project-tag">Dark Mode</span>
+                    </div>
+                    <a href="https://ananttripathiak.github.io/DSCode/" target="_blank" rel="noopener noreferrer" class="project-link">
+                        View Project <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <i class="fas fa-file-alt project-icon"></i>
+                        <h3>Resume Analyzer with MLOps</h3>
+                        <span class="project-year">2025</span>
+                    </div>
+                    <p class="project-org">AI-powered resume screening</p>
+                    <p class="project-desc">
+                        Automated keyword extraction, skill matching, and candidate scoring. Built with Streamlit, 
+                        DVC for data versioning, MLflow for experiment tracking, and comprehensive CI/CD pipeline 
+                        with automated testing and deployment.
+                    </p>
+                    <div class="project-tags">
+                        <span class="project-tag">NLP</span>
+                        <span class="project-tag">MLOps</span>
+                        <span class="project-tag">DVC</span>
+                        <span class="project-tag">MLflow</span>
+                        <span class="project-tag">Streamlit</span>
+                        <span class="project-tag">CI/CD</span>
+                    </div>
+                    <a href="https://ananttripathiak-resume-analyzer.hf.space/" target="_blank" rel="noopener noreferrer" class="project-link">
+                        View Project <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <i class="fas fa-laptop-code project-icon"></i>
+                        <h3>Professional Portfolio Website</h3>
+                        <span class="project-year">2025</span>
+                    </div>
+                    <p class="project-org">Apple-inspired dark mode portfolio</p>
+                    <p class="project-desc">
+                        Showcasing ML engineering expertise. Smooth animations, interactive contact form with 
+                        email integration, responsive design, and professional sections for experience, projects, 
+                        skills, and education. Built with pure HTML/CSS/JS.
+                    </p>
+                    <div class="project-tags">
+                        <span class="project-tag">HTML5</span>
+                        <span class="project-tag">CSS3</span>
+                        <span class="project-tag">JavaScript</span>
+                        <span class="project-tag">Dark Mode</span>
+                        <span class="project-tag">Responsive</span>
+                        <span class="project-tag">GitHub Pages</span>
+                    </div>
+                    <a href="https://ananttripathiak.github.io/Anant-Portfolio/" target="_blank" rel="noopener noreferrer" class="project-link">
+                        View Project <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">05.</span>
+                <span class="title-text">Tech Stack</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="skills-content">
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-code"></i>
+                        <h3>Programming Languages</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">Python</div>
+                        <div class="skill-chip">R</div>
+                        <div class="skill-chip">SQL</div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-brain"></i>
+                        <h3>AI/ML Frameworks</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">TensorFlow</div>
+                        <div class="skill-chip">PyTorch</div>
+                        <div class="skill-chip">Keras</div>
+                        <div class="skill-chip">Scikit-Learn</div>
+                        <div class="skill-chip">XGBoost</div>
+                        <div class="skill-chip">NLTK</div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-database"></i>
+                        <h3>Data Science Tools</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">NumPy</div>
+                        <div class="skill-chip">Pandas</div>
+                        <div class="skill-chip">SciPy</div>
+                        <div class="skill-chip">Seaborn</div>
+                        <div class="skill-chip">JupyterHub</div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-cloud"></i>
+                        <h3>Cloud & Platforms</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">AWS</div>
+                        <div class="skill-chip">GCP</div>
+                        <div class="skill-chip">Azure OpenAI</div>
+                        <div class="skill-chip">Databricks</div>
+                        <div class="skill-chip">Snowflake</div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-chart-line"></i>
+                        <h3>BI & Visualization</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">Power BI</div>
+                        <div class="skill-chip">KNIME</div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="category-header">
+                        <i class="fas fa-tools"></i>
+                        <h3>Dev Tools</h3>
+                    </div>
+                    <div class="skill-items">
+                        <div class="skill-chip">GitHub</div>
+                        <div class="skill-chip">Bitbucket</div>
+                        <div class="skill-chip">JIRA</div>
+                        <div class="skill-chip">Gen AI Tools</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="core-competencies">
+                <h3>Core Competencies</h3>
+                <div class="competencies-grid">
+                    <span class="competency-tag">Data Science</span>
+                    <span class="competency-tag">Machine Learning</span>
+                    <span class="competency-tag">Generative AI</span>
+                    <span class="competency-tag">Large Language Models</span>
+                    <span class="competency-tag">Deep Learning</span>
+                    <span class="competency-tag">Marketing Mix Modeling</span>
+                    <span class="competency-tag">Optimization</span>
+                    <span class="competency-tag">Predictive Analytics</span>
+                    <span class="competency-tag">Data Mining</span>
+                    <span class="competency-tag">Team Leadership</span>
+                    <span class="competency-tag">Agile Project Management</span>
+                    <span class="competency-tag">Prompt Engineering</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="education section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">06.</span>
+                <span class="title-text">Education</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="education-grid">
+                <div class="edu-card">
+                    <div class="edu-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="edu-content">
+                        <h3>Master of Science (MS)</h3>
+                        <h4>Data Science</h4>
+                        <p class="edu-institution">Deakin University</p>
+                        <p class="edu-location">Melbourne, Australia</p>
+                        <span class="edu-date">2025 – 2027</span>
+                    </div>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="edu-content">
+                        <h3>Post Graduate Program</h3>
+                        <h4>Artificial Intelligence & Machine Learning</h4>
+                        <p class="edu-institution">The University of Texas at Austin</p>
+                        <p class="edu-location">Austin, Texas, USA</p>
+                        <span class="edu-date">Feb 2025 – Feb 2026</span>
+                    </div>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="edu-content">
+                        <h3>Post Graduate Programme</h3>
+                        <h4>Applied AI and Agentic AI</h4>
+                        <p class="edu-institution">IIIT Bangalore</p>
+                        <p class="edu-location">Bangalore, India</p>
+                        <span class="edu-date">Jan 2025 – July 2025</span>
+                    </div>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="edu-content">
+                        <h3>B.E. & M.Sc. (Integrated)</h3>
+                        <h4>Electrical and Electronics</h4>
+                        <p class="edu-institution">Birla Institute of Technology and Science, Pilani</p>
+                        <p class="edu-location">Pilani, Rajasthan, India</p>
+                        <span class="edu-date">Aug 2016 – May 2021</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="awards-section">
+                <h3 class="awards-title">Awards & Recognition</h3>
+                <div class="awards-grid">
+                    <div class="award-item">
+                        <i class="fas fa-trophy"></i>
+                        <div>
+                            <h4>Right Brigade Award</h4>
+                            <p>Exemplary display of RIGHT values: Responsiveness, Integrity, Get going, Humble, Team Player</p>
+                        </div>
+                    </div>
+                    <div class="award-item">
+                        <i class="fas fa-star"></i>
+                        <div>
+                            <h4>Bravo Award</h4>
+                            <p>High-quality work delivery and exemplary performance with strong client appreciation</p>
+                        </div>
+                    </div>
+                    <div class="award-item">
+                        <i class="fas fa-certificate"></i>
+                        <div>
+                            <h4>Deeplearning.ai Certifications</h4>
+                            <p>Multiple courses in machine learning, deep learning, and advanced statistics</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">07.</span>
+                <span class="title-text">Get In Touch</span>
+                <span class="title-line"></span>
+            </h2>
+            <p class="contact-intro">
+                I'm always open to discussing new projects, opportunities, or collaborations. 
+                Whether you have a question or just want to say hello, feel free to reach out.
+            </p>
+            <div class="contact-layout">
+                <div class="contact-info">
+                    <a href="mailto:ananttripathiak@gmail.com" class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="contact-info-text">
+                            <span class="contact-info-label">Email</span>
+                            <span class="contact-info-value">ananttripathiak@gmail.com</span>
+                        </div>
+                    </a>
+                    <a href="https://www.linkedin.com/in/ananttripathiak/" target="_blank" rel="noopener noreferrer" class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fab fa-linkedin"></i>
+                        </div>
+                        <div class="contact-info-text">
+                            <span class="contact-info-label">LinkedIn</span>
+                            <span class="contact-info-value">linkedin.com/in/ananttripathiak</span>
+                        </div>
+                    </a>
+                    <a href="https://github.com/ananttripathiak" target="_blank" rel="noopener noreferrer" class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fab fa-github"></i>
+                        </div>
+                        <div class="contact-info-text">
+                            <span class="contact-info-label">GitHub</span>
+                            <span class="contact-info-value">github.com/ananttripathiak</span>
+                        </div>
+                    </a>
+                    <div class="contact-info-card contact-info-card-static">
+                        <div class="contact-info-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="contact-info-text">
+                            <span class="contact-info-label">Location</span>
+                            <span class="contact-info-value">Bengaluru, India</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form-wrap">
+                    <form class="contact-form" id="contactForm" action="https://formspree.io/f/xkojdjzy" method="POST">
+                        <div class="form-group">
+                            <label for="contact-name">Name</label>
+                            <input type="text" id="contact-name" name="name" required placeholder="Your name">
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-email">Email</label>
+                            <input type="email" id="contact-email" name="email" required placeholder="your@email.com">
+                            <input type="hidden" name="_replyto" id="contact-replyto">
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-subject">Subject</label>
+                            <input type="text" id="contact-subject" name="subject" placeholder="What's this about?">
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-message">Message</label>
+                            <textarea id="contact-message" name="message" rows="5" required placeholder="Your message..."></textarea>
+                        </div>
+                        <button type="submit" class="contact-submit">
+                            <span>Send Message</span>
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>Designed & Built by Anant Tripathi</p>
+            <p>&copy; 2025 All Rights Reserved</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
