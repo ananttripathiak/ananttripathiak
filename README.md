@@ -24,6 +24,12 @@ I architect and deploy **production-grade ML systems**, **LLM-powered solutions*
 
 ---
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananttripathiak&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
+
+---
+
 ## 🎓 Education
 
 | Degree | Institution | Focus |
