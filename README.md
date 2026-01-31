@@ -24,9 +24,38 @@ I architect and deploy **production-grade ML systems**, **LLM-powered solutions*
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananttripathiak&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
+## 📊 GitHub Statistics
+
+<!-- Main Stats Row -->
+<p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathiak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathiak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathiak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Summary -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathiak&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<!-- Language & Stats Cards Row -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathiak&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathiak&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<!-- Additional Stats Row -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananttripathiak&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathiak&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 ---
 
