@@ -79,7 +79,7 @@ anant = {
       <img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -88,11 +88,21 @@ anant = {
 
 <br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathiak&theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathiak&theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathiak&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathiak&theme=tokyonight" width="100%"/>
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=ananttripathiak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananttripathiak&theme=tokyo-night&hide_border=true&area=true&area_color=7DF9FF&color=7DF9FF&line=00f0ff&point=ffffff" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ananttripathiak/ananttripathiak/snake/github-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -243,6 +253,42 @@ Currently exploring:
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                               @@
+@@         ___I___                                               @@
+@@      .-'_______'-.        "The goal is not to build          @@
+@@     / /_________\ \        a model that fits the data.       @@
+@@    / /|  ___  _  |\ \      The goal is to build one         @@
+@@    | || |_  || || | ||     that understands the world."     @@
+@@    | ||  _| || || | ||                                       @@
+@@    | ||_|   |____| | ||                                      @@
+@@    \_\|_____________|_\/    while( !model.isGood() ) {       @@
+@@       |   _______   |         model.train();                 @@
+@@       |  |       |  |         model.evaluate();              @@
+@@       |  |  AI   |  |         model.iterate();               @@
+@@       |  |_______|  |       }                                @@
+@@       |_____________|                                        @@
+@@                                                               @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20intelligent&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
