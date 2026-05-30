@@ -260,7 +260,17 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+
+<br/>
+
+![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 </div>
 
