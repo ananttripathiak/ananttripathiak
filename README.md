@@ -2,17 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Production-Grade+ML+%26+GenAI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Marketing+Mix+Optimization;MLOps+%7C+Vector+Search+%7C+Predictive+Analytics;5%2B+Years+%C2%B7+15%2B+Global+Clients+%C2%B7+10%2B+AI+Products)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=7DF9FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;lines=Building+Production-Grade+ML+%26+GenAI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Marketing+Mix+Optimization;MLOps+%7C+Vector+Search+%7C+Predictive+Analytics;5%2B+Years+%C2%B7+15%2B+Global+Clients+%C2%B7+10%2B+AI+Products" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00f0ff)](https://ananttripathi.github.io/Anant-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ananttripathiakt/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anantkumartripathi)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/ananttripathiak)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ananttripathiakt@gmail.com)
+<a href="https://ananttripathi.github.io/Anant-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00f0ff" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ananttripathiakt/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/anantkumartripathi"><img src="https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&amp;logo=kaggle&amp;logoColor=20BEFF" alt="Kaggle" /></a>
+<a href="https://huggingface.co/ananttripathiak"><img src="https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E" alt="HuggingFace" /></a>
+<a href="mailto:ananttripathiakt@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&amp;logo=gmail&amp;logoColor=D14836" alt="Gmail" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ananttripathiak&style=flat-square&color=7DF9FF&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=ananttripathiak&amp;style=flat-square&amp;color=7DF9FF&amp;label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -264,9 +264,9 @@ Currently exploring:
 
 <br/>
 
-![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+<img src="https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true" alt="City Theme" />
 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=algolia" alt="Dev Quote" /></a>
 
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
 
@@ -304,10 +304,10 @@ Currently exploring:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00f0ff)](https://ananttripathi.github.io/Anant-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ananttripathiakt/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anantkumartripathi)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/ananttripathiak)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ananttripathiakt@gmail.com)
+<a href="https://ananttripathi.github.io/Anant-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00f0ff" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ananttripathiakt/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/anantkumartripathi"><img src="https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&amp;logo=kaggle&amp;logoColor=20BEFF" alt="Kaggle" /></a>
+<a href="https://huggingface.co/ananttripathiak"><img src="https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E" alt="HuggingFace" /></a>
+<a href="mailto:ananttripathiakt@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&amp;logo=gmail&amp;logoColor=D14836" alt="Gmail" /></a>
 
 </div>
