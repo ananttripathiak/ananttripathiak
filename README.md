@@ -43,23 +43,23 @@ anant = {
 
 **Core AI / ML**
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r&amp;theme=dark" alt="Core ML Skills" />
 
-**GenAI & LLM Stack**
+**GenAI &amp; LLM Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=openai,huggingface,fastapi&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=openai,huggingface,fastapi&amp;theme=dark" alt="GenAI Skills" />
 
 `LangChain` `LlamaIndex` `RAG` `FAISS` `Pinecone` `Weaviate` `Prompt Engineering` `LLM Fine-Tuning`
 
-**MLOps & Cloud**
+**MLOps &amp; Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,github,gcp,aws,azure&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,github,gcp,aws,azure&amp;theme=dark" alt="MLOps Skills" />
 
 `MLflow` `GitHub Actions` `CI/CD for ML` `Databricks` `Airflow` `Kafka` `Model Monitoring`
 
-**Data & Databases**
+**Data &amp; Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;theme=dark" alt="Database Skills" />
 
 `Snowflake` `Apache Spark` `Hadoop` `Pandas` `NumPy` `SciPy`
 
@@ -143,7 +143,7 @@ Full end-to-end **MLOps pipeline** predicting customer purchase behavior — XGB
 ### ⚙️ Engine Predictive Maintenance
 **[github.com/ananttripathi/engine-predictive-maintenance](https://github.com/ananttripathi/engine-predictive-maintenance)**
 
-Forecasts engine failures from **time-series sensor data** using Random Forest & Gradient Boosting. Automated evaluation pipelines track precision, recall, F1, and ROC-AUC with full versioning and interactive failure-probability dashboards.
+Forecasts engine failures from **time-series sensor data** using Random Forest &amp; Gradient Boosting. Automated evaluation pipelines track precision, recall, F1, and ROC-AUC with full versioning and interactive failure-probability dashboards.
 
 `Python` `Scikit-Learn` `Time Series` `MLOps` `Dashboards`
 
