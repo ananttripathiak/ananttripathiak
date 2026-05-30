@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anant%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Manager%20%E2%80%93%20Software%20Engineering%20%7C%20Senior%20ML%20%26%20AI%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Anant%20Tripathi&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Manager%20%E2%80%93%20Software%20Engineering%20%7C%20Senior%20ML%20%26%20AI%20Engineer&amp;descAlignY=55&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ### `whoami`
 
@@ -33,7 +33,7 @@ anant = {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 <br/>
 
@@ -67,7 +67,7 @@ anant = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## 📊 GitHub at a Glance
 
@@ -76,29 +76,29 @@ anant = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathiak&theme=tokyonight&hide_border=true&stroke=7DF9FF&ring=7DF9FF&fire=FF9900" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathiak&amp;theme=tokyonight&amp;hide_border=true&amp;stroke=7DF9FF&amp;ring=7DF9FF&amp;fire=FF9900" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathiak&theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathiak&theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathiak&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathiak&amp;theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathiak&amp;theme=tokyonight" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathiak&amp;theme=tokyonight&amp;utcOffset=5.5" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathiak&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ananttripathiak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathiak&amp;theme=tokyonight" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananttripathiak&theme=tokyo-night&hide_border=true&area=true&area_color=7DF9FF&color=7DF9FF&line=00f0ff&point=ffffff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ananttripathiak&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananttripathiak&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=7DF9FF&amp;color=7DF9FF&amp;line=00f0ff&amp;point=ffffff" width="100%"/>
 
 <br/>
 
@@ -108,7 +108,7 @@ anant = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -167,7 +167,7 @@ Currently exploring:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## 💼 Career Trajectory
 
@@ -205,7 +205,7 @@ Currently exploring:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## 🎓 Education
 
@@ -222,7 +222,7 @@ Currently exploring:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## 🏅 Certifications & Awards
 
@@ -254,7 +254,7 @@ Currently exploring:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3" width="100%"/>
 
 ## ✍️ Dev Quote
 
@@ -300,7 +300,7 @@ Currently exploring:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20intelligent&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Let's%20build%20something%20intelligent&amp;fontSize=20&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=65" width="100%"/>
 
 <div align="center">
 
