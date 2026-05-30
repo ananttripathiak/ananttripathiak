@@ -1,167 +1,257 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anant%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Manager%20%E2%80%93%20Software%20Engineering%20%7C%20Senior%20ML%20%26%20AI%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+
 <div align="center">
 
-<img src="anantprofilepicture.png" width="130" style="border-radius:50%;border:3px solid #00f0ff;" alt="Anant Tripathi" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Production-Grade+ML+%26+GenAI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Marketing+Mix+Optimization;MLOps+%7C+Vector+Search+%7C+Predictive+Analytics;5%2B+Years+%C2%B7+15%2B+Global+Clients+%C2%B7+10%2B+AI+Products)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anant+Tripathi;Manager+%E2%80%93+Software+Engineering;Senior+ML+%26+AI+Engineer;GenAI+%7C+LLMs+%7C+MLOps+%7C+Optimization)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00f0ff)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ananttripathiakt/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anantkumartripathi)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/ananttripathiak)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ananttripathiakt@gmail.com)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ananttripathi.github.io/Anant-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananttripathiakt/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/ananttripathiak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananttripathiakt@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ananttripathiak&style=flat-square&color=7DF9FF&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-**Manager – Software Engineering** at **Axtria – Ingenious Insights** with **5+ years** building and scaling production-grade **ML**, **GenAI**, and **MLOps** systems in healthcare, pharma, and marketing analytics.
+### `whoami`
 
-- **Currently:** Leading software engineering, owning the end-to-end Optimization product roadmap, and scaling AI solutions across global enterprise clients (Bayer, Merck, Novartis, Janssen, and more)
-- **Expertise:** Predictive modeling, Marketing Mix Optimization (MMM/MMX), LLMs, RAG pipelines, vector search, and production GenAI applications
-- **Impact:** 95%+ on-time delivery, 98–100% error-free releases, 72% execution time reduction, 63% memory improvement
-- **Mindset:** Translating complex business problems into interpretable, scalable, production-grade ML solutions
+```python
+anant = {
+    "role"       : "Manager – Software Engineering @ Axtria",
+    "focus"      : ["GenAI / LLMs", "MLOps", "Marketing Mix Optimization", "RAG Pipelines"],
+    "experience" : "5+ years · 15+ global pharma & healthcare clients",
+    "impact"     : ["10+ AI products owned", "95%+ on-time delivery", "72% exec time ↓", "99% bug-free UAT"],
+    "learning"   : ["Agentic AI @ IIIT Bangalore", "Data Science @ Deakin University"],
+    "open_to"    : ["AI/ML consulting", "GenAI collaborations", "Senior ML/MLOps roles"],
+}
+```
 
-> *"Building AI systems that don't just predict — they decide, explain, and scale."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🧠 Tech Arsenal
 
-**AI & Machine Learning**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat-square&logo=xgboost&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+**Core AI / ML**
 
-**Generative AI & LLMs**
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r&theme=dark)](https://skillicons.dev)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+**GenAI & LLM Stack**
+
+[![My Skills](https://skillicons.dev/icons?i=openai,huggingface,fastapi&theme=dark)](https://skillicons.dev)
+
+`LangChain` `LlamaIndex` `RAG` `FAISS` `Pinecone` `Weaviate` `Prompt Engineering` `LLM Fine-Tuning`
 
 **MLOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,gcp,aws,azure&theme=dark)](https://skillicons.dev)
+
+`MLflow` `GitHub Actions` `CI/CD for ML` `Databricks` `Airflow` `Kafka` `Model Monitoring`
 
 **Data & Databases**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<p>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathiak&theme=tokyonight&hide_border=true" />
-</p>
+`Snowflake` `Apache Spark` `Hadoop` `Pandas` `NumPy` `SciPy`
 
 </div>
 
----
+<br/>
 
-## 🏆 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[MarketingIQ – MMX Platform](https://www.axtria.com/cloud-products/axtria-marketingiq-marketing-analytics/)** | Core technical lead for Axtria's flagship Marketing Mix Optimization product. Built non-linear response modeling, SLSQP/COBYLA/CCSA algorithms, portfolio optimization, and multi-level constraints for 20+ global pharma clients. | Python · Optimization · MMM · FastAPI |
-| **[Tourism Purchase Prediction](https://github.com/ananttripathi/Tourism_Project)** | End-to-end MLOps pipeline — XGBoost model, MLflow tracking, GitHub Actions CI/CD, Docker, Streamlit app deployed on Hugging Face Spaces. | XGBoost · MLflow · Docker · HF Spaces |
-| **[Engine Predictive Maintenance](https://github.com/ananttripathi/engine-predictive-maintenance)** | Forecasts engine failures from time-series sensor data using ML (Random Forest, Gradient Boosting) with automated evaluation pipelines, ROC-AUC tracking, and interactive dashboards. | Python · Scikit-Learn · MLOps |
+## 📊 GitHub at a Glance
 
----
+<div align="center">
 
-## 💼 Career Journey
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ananttripathiak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathiak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathiak&theme=tokyonight&hide_border=true&stroke=7DF9FF&ring=7DF9FF&fire=FF9900" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ananttripathiak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananttripathiak&theme=tokyo-night&hide_border=true&area=true&area_color=7DF9FF&color=7DF9FF&line=00f0ff&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 MarketingIQ – MMX Platform
+**[Axtria Marketing Analytics](https://www.axtria.com/cloud-products/axtria-marketingiq-marketing-analytics/)**
+
+Core technical lead on Axtria's flagship **Marketing Mix Optimization** product. Engineered non-linear response modeling (diminishing returns, S-curves), SLSQP / COBYLA / CCSA solvers, portfolio-level optimization, and multi-level budget constraints — serving **20+ global pharma clients** including Bayer, Merck, Novartis, and Janssen.
+
+`Python` `Optimization` `MMM` `FastAPI` `R`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Tourism Purchase Prediction
+**[github.com/ananttripathi/Tourism_Project](https://github.com/ananttripathi/Tourism_Project)**
+
+Full end-to-end **MLOps pipeline** predicting customer purchase behavior — XGBoost model, MLflow experiment tracking, GitHub Actions CI/CD, Docker containerization, and a Streamlit app live on **Hugging Face Spaces**.
+
+`XGBoost` `MLflow` `Docker` `GitHub Actions` `Streamlit` `HF Spaces`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Engine Predictive Maintenance
+**[github.com/ananttripathi/engine-predictive-maintenance](https://github.com/ananttripathi/engine-predictive-maintenance)**
+
+Forecasts engine failures from **time-series sensor data** using Random Forest & Gradient Boosting. Automated evaluation pipelines track precision, recall, F1, and ROC-AUC with full versioning and interactive failure-probability dashboards.
+
+`Python` `Scikit-Learn` `Time Series` `MLOps` `Dashboards`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 What I'm Building Next
+Currently exploring:
+- **Agentic AI** workflows (IIIT Bangalore)
+- **LLM-powered** optimization explainability
+- **RAG pipelines** for enterprise analytics
+- **Portfolio-level** GenAI decision support
+
+*Watch this space 👀*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 💼 Career Trajectory
+
+<div align="center">
 
 ```
-Manager – Software Engineering      Axtria – Ingenious Insights    May 2026 – Present
-Project Leader – Data Science       Axtria – Ingenious Insights    May 2024 – Apr 2026
-Senior Associate – ML/DS            Axtria – Ingenious Insights    May 2023 – Apr 2024
-Associate – Data Science            Axtria – Ingenious Insights    May 2022 – Apr 2023
-Analyst                             Axtria – Ingenious Insights    Jul 2021 – Apr 2022
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  Axtria – Ingenious Insights
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+  2021 ──► Analyst
+  2022 ──► Associate
+  2023 ──► Senior Associate – Data Science / ML
+  2024 ──► Project Leader – Data Science / ML
+  2026 ──► Manager – Software Engineering          ◄── NOW
 ```
 
-**Key Impact Numbers:**
+</div>
 
-| Metric | Result |
-|--------|--------|
-| Optimization product capabilities owned | **10+** |
+<br/>
+
+<div align="center">
+
+| 🏆 Metric | 📊 Result |
+|:----------|:----------|
+| AI product capabilities owned end-to-end | **10+** |
 | On-time feature delivery | **95%+** |
 | UAT bug-free readiness | **~99%** |
 | Execution time reduction | **72%** |
 | Memory utilization reduction | **63%** |
-| Global pharma clients served | **15+** |
+| Global enterprise pharma clients | **15+** |
+| Professionals trained (Python, SQL, MMM) | **70+** |
 
----
-
-## 🎓 Education
-
-| Institution | Program | Duration |
-|-------------|---------|----------|
-| **Deakin University, Australia** | Masters of Data Science | Jun 2026 – Jun 2027 |
-| **IIIT Bangalore** | Exec PGP – Applied AI & Agentic AI | Dec 2025 – Aug 2026 |
-| **University of Texas at Austin** | PGP – AI & Machine Learning (CGPA 4.13/4.33) | Feb 2025 – Mar 2026 |
-| **BITS Pilani** | B.E. + M.S. – Electrical & Electronics Engineering (CGPA 7.62/10) | Aug 2016 – Jun 2021 |
-
----
-
-## 📜 Certifications & Awards
-
-**Certifications**
-- Machine Learning Specialization — Stanford / Deeplearning.ai
-- Generative AI for Software Developers — IBM
-- Intro to Generative AI — Google Cloud
-
-**Awards @ Axtria**
-- **Right Brigade Award** — Exemplary display of core values (Responsiveness, Integrity, Get Going, Humble, Team Player)
-- **Bravo Award** — High-quality delivery with exceptional client appreciation
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ananttripathi.github.io/Anant-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananttripathiakt/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ananttripathiak)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananttripathiakt@gmail.com)
+</div>
 
 <br/>
 
-*Open to collaborations, consulting, and senior roles in AI/ML, MLOps, and Generative AI*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
----
+## 🎓 Education
 
-**⭐ Transforming Data into Intelligence · Building AI that Scales**
+<div align="center">
+
+| 🏫 Institution | 📚 Program | 📅 Duration |
+|:--------------|:-----------|:------------|
+| **Deakin University**, Australia | Masters of Data Science | 2026 – 2027 |
+| **IIIT Bangalore** | Exec PGP – Applied AI & Agentic AI | 2025 – 2026 |
+| **University of Texas at Austin** | PGP – AI & Machine Learning `4.13 / 4.33` | 2025 – 2026 |
+| **BITS Pilani** | B.E. + M.S. – Electrical & Electronics Engineering `7.62 / 10` | 2016 – 2021 |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🏅 Certifications & Awards
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+🎖️ **Machine Learning Specialization** — Stanford / Deeplearning.ai  
+🎖️ **Generative AI for Developers** — IBM  
+🎖️ **Intro to Generative AI** — Google Cloud  
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 Awards @ Axtria**
+
+🥇 **Right Brigade Award** — Values excellence (Responsiveness · Integrity · Get Going · Humble · Team Player)  
+🥇 **Bravo Award** — High-quality delivery with exceptional client impact  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20intelligent&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00f0ff)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ananttripathiakt/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anantkumartripathi)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/ananttripathiak)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ananttripathiakt@gmail.com)
 
 </div>
